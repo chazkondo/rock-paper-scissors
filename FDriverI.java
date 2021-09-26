@@ -4,8 +4,5 @@ public class FDriverI{
       Intercom f = new Intercom( );
       f.initializeGUI( );
       f.setVisible(true);
-      ResponsiveFrame g = new ResponsiveFrame();
-      g.initializeGUI();
-      g.setVisible(true);
    }
 }
