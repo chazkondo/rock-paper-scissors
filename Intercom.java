@@ -71,7 +71,8 @@ public class Intercom extends JFrame{ //this class is a frame
       panel.add(buttons);
       mPanel.add("East", panel);   
       
-      this.add(mPanel); //adds the panel to "this" frame      
+      this.add(mPanel); //adds the panel to "this" frame
+      // test      
    }
  
   //inner class
