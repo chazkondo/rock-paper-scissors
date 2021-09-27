@@ -72,7 +72,7 @@ public class Intercom extends JFrame{ //this class is a frame
       mPanel.add("East", panel);   
       
       this.add(mPanel); //adds the panel to "this" frame
-      // test      
+      // test 24
    }
  
   //inner class
